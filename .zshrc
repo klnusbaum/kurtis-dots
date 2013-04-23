@@ -60,5 +60,4 @@ fi
 
 alias cantor_connect="ssh cantor"
 alias taub_connect="ssh taub"
-clear; figlet -c  "This  terminal  is  FABULOUS !!!"  | toilet -F gay -f term
 source $HOME/.zextra
